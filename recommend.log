@@ -1,0 +1,5 @@
+[2025-05-18 09:41:21,075] INFO - 🔁 Loading data...
+[2025-05-18 09:41:21,243] INFO - NumExpr defaulting to 8 threads.
+[2025-05-18 09:41:21,852] INFO - ✅ Data loaded successfully.
+[2025-05-18 09:41:44,325] INFO - 🎵 Recommending songs for: '1,000,000'
+[2025-05-18 09:41:44,336] INFO - ✅ Top 5 recommendations ready.
